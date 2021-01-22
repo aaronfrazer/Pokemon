@@ -1,0 +1,32 @@
+Stories:
+As a player I want to
+1. see a screen that resembles the old Pokemon games for the Game Boy Color/Advanced
+    a. Research screens to find a good design
+    b. Prototype the new design
+    c. Implement (code) the design
+    d. Test the design
+2. manage 6 pokemon on my team so that I can choose when it is my turn so that I can select a pokemon when one faints
+3. battle the computer (AI) in a Pokemon duel from start to finish so that I can feel satisfied that I have completed a battle
+4. choose an attack for my pokemon by clicking an attack button so that I can do damage to my opponents pokemon
+
+As the computer (AI) I want to
+- choose an attack for my pokemon when it is my turn
+
+------------------------------------------------------------------------------------------------------------------------
+
+GUI
+2 HBoxes
+Each HBox contains:
+- Name
+- Level
+- HP Total / HP Remaining
+- Image of Pokemon
+
+1 HBox
+Contains 4 buttons
+- Fight
+- Pokemon
+- Item
+- Run
+
+Once "Fight" is pressed, change the buttons to all of p1's attacks
