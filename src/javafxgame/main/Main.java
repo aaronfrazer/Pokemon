@@ -1,6 +1,6 @@
-package main;
+package javafxgame.main;
 
-import gui.ConfirmBox;
+import javafxgame.gui.ConfirmBox;
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;

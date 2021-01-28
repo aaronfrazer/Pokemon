@@ -1,4 +1,4 @@
-package main;
+package javafxgame.main;
 
 public class GameLauncher
 {

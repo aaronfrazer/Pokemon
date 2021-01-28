@@ -70,7 +70,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <mainClass>main.Main</mainClass>
+                    <mainClass>javafxgame.main.Main</mainClass>
                 </configuration>
             </plugin>
 
@@ -88,7 +88,7 @@
                             <transformers>
                                 <transformer
                                         implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                                    <mainClass>main.Main</mainClass>
+                                    <mainClass>javafxgame.main.Main</mainClass>
                                 </transformer>
                             </transformers>
                         </configuration>

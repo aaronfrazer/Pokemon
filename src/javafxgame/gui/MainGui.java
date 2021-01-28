@@ -1,4 +1,4 @@
-package gui;
+package javafxgame.gui;
 
 import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;

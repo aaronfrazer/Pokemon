@@ -14,7 +14,7 @@ public class Pokemon
 {
 	private String name;
 	private int level, health, attack, defense;
-	private Enum type; // TODO: Change this to Type object instead of String
+	private Enum type;
 	private boolean alive;
 	private ArrayList<Attack> attacks;
 	
